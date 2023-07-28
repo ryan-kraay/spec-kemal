@@ -1,4 +1,3 @@
-require "spec"
 require "kemal"
 
 Kemal.config.logging = false

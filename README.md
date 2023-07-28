@@ -24,6 +24,7 @@ dependencies:
 Just require it before your files in your `spec/spec_helper.cr`
 
 ```crystal
+require "spec"
 require "spec-kemal"
 require "../src/your-kemal-app"
 ```
